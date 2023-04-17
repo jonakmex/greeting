@@ -1,5 +1,5 @@
 Feature: Greet the User
-    As Simple User I want to see a greeting on the screen. 
+    As Visitor I want to see a greeting on the screen. 
     If I tell my name I want to see it on the greeting.
 
     Scenario: Saying Hello World without User's name
